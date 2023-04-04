@@ -1,6 +1,6 @@
 # Plantineers
 
-![Logo](../logo-small.png)
+![Logo](https://raw.githubusercontent.com/plantineers/.github/main/logo-small.png)
 
 **We are the Plantineers - a group of students developing *PlantBuddy***.
 
